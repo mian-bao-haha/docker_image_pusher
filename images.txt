@@ -1,1 +1,1 @@
-juicedata/mount
+juicedata/mount:latest
